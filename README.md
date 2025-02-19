@@ -1,3 +1,3 @@
 ## Olá, meu nome é Wagner
-Sou um estudante autodidata começando agora do zero programação.
+Sou um estudante de programação
 
